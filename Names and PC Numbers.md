@@ -4,7 +4,7 @@ Ghaith Al Maslamani
 Arshdeep Kaur Arshdeep Kaur
 Arshdeep Singh Arshdeep Singh
 Bajaj Singh Bajaj Singh:  PC211-P23
-Navjot Singh Bhatti
+Navjot Singh Bhatti  PC211-P12
 Kamakshi Dhillon
 Rahul Kumar
 Jason Lam
